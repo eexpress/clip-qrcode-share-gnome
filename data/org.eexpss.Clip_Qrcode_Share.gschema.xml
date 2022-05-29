@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="clip-qrcode-share">
+	<schema id="org.eexpss.Clip_Qrcode_Share" path="/org/eexpss/Clip_Qrcode_Share/">
+	</schema>
+</schemalist>
